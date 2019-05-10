@@ -1,0 +1,15 @@
+{
+    "name": "fed/ss-components-pages-publisher",
+    "type": "ewma-module",
+    "description": "ss pages publisher component",
+    "authors": [
+        {
+            "name": "fed",
+            "email": "ewmafw@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fed/ewma-module-installer-plugin": "~0.0.1"
+    }
+}
